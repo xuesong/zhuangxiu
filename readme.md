@@ -1,3 +1,6 @@
+this is write by markdown, [Help file here](https://guides.github.com/features/mastering-markdown/)
+
+
 |         | 价格 |型号 | 主要考虑指标   |未考虑指标| 其他|  
 | ------------- |---------------|-------------|-------------|-------------|-------------|   
 | 洗碗机 | 4949 | SN53e531 | 容量13套，可刷锅,前饰面板需另做|噪音||  
