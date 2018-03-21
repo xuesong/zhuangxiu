@@ -1,4 +1,4 @@
-this is write by markdown, [Help file here](https://guides.github.com/features/mastering-markdown/)
+this is rendering by markdown, [Help file here](https://guides.github.com/features/mastering-markdown/)
 
 
 |         | 价格 |型号 | 主要考虑指标   |未考虑指标| 其他|  
