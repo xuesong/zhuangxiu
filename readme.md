@@ -16,6 +16,7 @@ this is rendering by markdown, [Help file here](https://guides.github.com/featur
 | 水槽 |      | |    ||||||||
 | 马桶 |      | |    ||||||||
 | 浴缸 |      | |    ||||||||
+| 花洒 |      | |需要空气水混合比为1:3的    ||||||||
 | 涂料 |      | |    ||||||||
 | 墙纸 |      | |    ||||||||
 | 开关 |      | |    ||||||||
