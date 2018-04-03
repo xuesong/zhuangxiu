@@ -1,5 +1,9 @@
 this is rendering by markdown, [Help file here](https://guides.github.com/features/mastering-markdown/)
 
+单水槽，不要射灯，灯带
+小电器集中区域插座要带开关
+卫生间慎用玻璃门，毛玻璃也不行，有影子
+
 
 |         | 价格 |型号 | 主要考虑指标   |未考虑指标| 其他|  
 | ------------- |---------------|-------------|-------------|-------------|-------------|   
