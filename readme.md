@@ -7,7 +7,9 @@ this is rendering by markdown, [Help file here](https://guides.github.com/featur
 电线管用中财，轻型管就可以了，不需要中型             
 监控摄像头用 小米小方，只需要接电源即可            
 AP用AP450,只是如何维修，留石膏板 维修口        
-              
+厨房装欧普凉霸 299 其实就是暗风扇
+德力西斜五孔 京东 55 十只         
+
               
 
 |         | 价格 |型号 | 主要考虑指标   |未考虑指标| 其他|  
