@@ -1,8 +1,9 @@
-this is rendering by markdown, [Help file here](https://guides.github.com/features/mastering-markdown/)
-
-单水槽，不要射灯，灯带    
-小电器集中区域插座要带开关    
-卫生间慎用玻璃门，毛玻璃也不行，有影子    
+this is rendering by markdown, [Help file here](https://guides.github.com/features/mastering-markdown/)  
+|项目|说明|  
+|-------|-------|  
+| |单水槽，不要射灯，灯带|  
+| |小电器集中区域插座要带开关|  
+卫生间慎用玻璃门，毛玻璃也不行，有影子    
 水管可用白蝶，价格比皮尔萨便宜，质量也好    
 电线管用中财，轻型管就可以了，不需要中型    
 监控摄像头用 小米小方，只需要接电源即可    
